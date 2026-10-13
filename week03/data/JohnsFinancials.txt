@@ -1,0 +1,22 @@
+CONFIDENTIAL --- PERSONAL FINANCIAL SUMMARY
+Prepared for: John Fictitious
+Account holder reference: 0000-0000-0000
+Statement period: 1 September 2026 - 30 September 2026
+
+Current account (Fictional Bank plc)
+  Opening balance                     2,418.77
+  Salary credit, 28 September         3,105.40
+  Rent, standing order                1,650.00
+  Card payments and direct debits       892.16
+  Closing balance                     2,982.01
+
+Savings account (Fictional Bank plc)
+  Closing balance                    11,240.55
+
+Outstanding debts
+  Student loan                       27,500.00
+  Credit card                           613.29
+
+Notes
+  This is an invented file used for a teaching demonstration in MY472.
+  No part of it refers to a real person, account or institution.
